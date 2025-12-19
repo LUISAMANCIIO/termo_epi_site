@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 100" width="200" height="100">
+  <!-- Background -->
+  <rect width="200" height="100" fill="white"/>
+  
+  <!-- Blue geometric shape (simplified version of the logo) -->
+  <g fill="#0052CC">
+    <!-- Left shape -->
+    <polygon points="20,20 40,20 35,40 25,40"/>
+    <polygon points="25,40 35,40 40,60 30,60"/>
+    <polygon points="30,60 40,60 35,80 25,80"/>
+    
+    <!-- Right shape -->
+    <polygon points="45,30 55,30 50,50 45,50"/>
+    <polygon points="45,50 50,50 55,70 45,70"/>
+  </g>
+  
+  <!-- Text -->
+  <text x="70" y="35" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#0052CC">Laboratórios</text>
+  <text x="70" y="55" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#0052CC">REUNIDOS</text>
+</svg>
