@@ -1,5 +1,5 @@
 import { useDialogComposition } from "./dialog";
-import { useComposition } from "@/hooks/useComposition";
+import { useComposition } from "../../hooks/useComposition";
 import { cn } from "@/lib/utils";
 import * as React from "react";
 
