@@ -3,7 +3,7 @@ import { useComposition } from "@/hooks/useComposition";
 import { cn } from "@/lib/utils";
 import * as React from "react";
 
-function Input({
+function Input({ 
   className,
   type,
   onKeyDown,
